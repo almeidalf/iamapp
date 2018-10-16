@@ -1,0 +1,7 @@
+{
+  "name": "iam",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
